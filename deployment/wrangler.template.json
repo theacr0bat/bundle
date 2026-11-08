@@ -1,0 +1,11 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "name": "aralik",
+  "main": "../worker/standalone.ts",
+  "compatibility_date": "2026-05-15",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": false,
+  "preview_urls": false,
+  "vars": {"AUTH_MODE": "cloudflare-access"},
+  "d1_databases": [{"binding": "DB", "database_name": "aralik-db", "database_id": "00000000-0000-4000-8000-000000000000", "migrations_dir": "../drizzle"}]
+}

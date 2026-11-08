@@ -1,0 +1,8 @@
+{
+  "accountId": "CLOUDFLARE_HESAP_KIMLIGI",
+  "databaseId": "OLUSTURULACAK_D1_VERITABANI_KIMLIGI",
+  "hostname": "oyun.senin-alan-adin.com",
+  "teamDomain": "https://EKIP-ADIN.cloudflareaccess.com",
+  "accessAudience": "ACCESS_UYGULAMASININ_AUD_DEGERI",
+  "ownerEmail": "senin-eposta-adresin@example.com"
+}

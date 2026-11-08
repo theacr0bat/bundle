@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+ <rect width="1200" height="630" fill="#101113"/>
+ <path d="M90 510H1110" stroke="#34353b" stroke-width="3"/>
+ <path d="M505 485H390V550H505M695 485H810V550H695" fill="none" stroke="#ed3445" stroke-width="9"/>
+ <circle cx="600" cy="510" r="9" fill="#eeeeec"/>
+ <text x="85" y="130" fill="#ed3445" font-family="Arial,sans-serif" font-size="23" letter-spacing="5">FIVE QUESTIONS. ONE DAILY ROUND.</text>
+ <text x="80" y="310" fill="#eeeeec" font-family="Arial,sans-serif" font-weight="700" font-size="145" letter-spacing="-5">BOUNDLE</text>
+ <text x="88" y="382" fill="#aaaab3" font-family="Arial,sans-serif" font-size="34">How sure are you?</text>
+</svg>

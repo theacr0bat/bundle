@@ -1,0 +1,32 @@
+{
+  "project": "Boundle",
+  "source_commit": "09f018ab4135973ff8334d125555ae9a080f6510",
+  "export_date": "2026-11-08",
+  "live_url": "https://aralik-daily.acr0bat.chatgpt.site/",
+  "export_kind": "current source plus review-only documentation and local setup helper",
+  "source_files_copied": 160,
+  "excluded_tracked_paths": [
+    "design-archive/v1/README.md",
+    "design-archive/v1/favicon.svg",
+    "design-archive/v1/globals.css",
+    "design-archive/v1/page.tsx.txt",
+    "design-archive/v2/globals.css",
+    "design-archive/v2/page.tsx.txt",
+    "design-archive/v3/globals.css",
+    "design-archive/v3/page.tsx.txt",
+    "design-archive/v4/README.md",
+    "design-archive/v4/audio.ts.txt",
+    "design-archive/v4/globals.css",
+    "design-archive/v4/page.tsx.txt",
+    "docs/admin-preview.png",
+    "examples/d1/app/api/notes/route.ts",
+    "examples/d1/db/schema.ts"
+  ],
+  "not_included": [
+    "Git history and repository credentials",
+    "runtime secrets and environment files",
+    "live player records or database dump",
+    "node_modules and generated build output"
+  ],
+  "review_files_are_not_part_of_live_site": true
+}
